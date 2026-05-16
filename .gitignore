@@ -4,3 +4,4 @@ __pycache__/
 clv_bgnbd_gammagamma_retail.ipynb
 .vscode
 data/raw/data.csv
+main_old.ipynb
